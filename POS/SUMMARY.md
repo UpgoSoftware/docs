@@ -17,6 +17,7 @@
 
 ## Bán hàng ( Thu ngân )
 
+* [Mở ca](ban-hang-thu-ngan/mo-ca.md)
 * [Đơn order](ban-hang-thu-ngan/editor.md)
 * [Trả hàng](ban-hang-thu-ngan/tra-hang.md)
 * [Nhập khách hàng](ban-hang-thu-ngan/nhap-khach-hang.md)

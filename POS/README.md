@@ -33,12 +33,3 @@ Các khái niệm cơ bản:
 7. **Hóa đơn**: Là tài liệu ghi nhận các thông tin chi tiết của một giao dịch bán hàng, bao gồm: mã hóa đơn, danh sách sản phẩm, số lượng, đơn giá, thành tiền, chiết khấu (nếu có), phương thức thanh toán và thời gian giao dịch. Hóa đơn đóng vai trò quan trọng trong việc theo dõi doanh thu và quản lý tài chính của cửa hàng.
 8. **Thanh toán**: Là hành động sử dụng tiền hoặc point tích lũy để hoàn tất giao dịch mua sắm hoặc dịch vụ. Quá trình này có thể được thực hiện thông qua ví điện tử, thẻ ngân hàng, hoặc point tích lũy, tùy theo quy định của hệ thống thanh toán.
 
-Hướng dẫn sử dụng:
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
