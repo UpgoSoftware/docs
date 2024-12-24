@@ -1,17 +1,26 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Lời nói đầu](README.md)
 
-## Admin
+## Admin ( Người quản trị )
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Trang chủ](admin-nguoi-quan-tri/quickstart.md)
+* [Đơn vị tính](admin-nguoi-quan-tri/publish-your-docs.md)
+* [Loại sản phẩm](admin-nguoi-quan-tri/loai-san-pham.md)
+* [Sản phẩm](admin-nguoi-quan-tri/san-pham.md)
+* [Bảng giá](admin-nguoi-quan-tri/bang-gia.md)
+* [Hóa đơn](admin-nguoi-quan-tri/hoa-don.md)
+* [Cửa hàng](admin-nguoi-quan-tri/cua-hang.md)
+* [Barcode](admin-nguoi-quan-tri/barcode.md)
+* [Vai trò/Quyền](admin-nguoi-quan-tri/vai-tro-quyen.md)
+* [Lịch sử hóa đơn](admin-nguoi-quan-tri/lich-su-hoa-don.md)
 
-## Basics
+## Bán hàng ( Thu ngân )
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Đơn order](ban-hang-thu-ngan/editor.md)
+* [Trả hàng](ban-hang-thu-ngan/tra-hang.md)
+* [Nhập khách hàng](ban-hang-thu-ngan/nhap-khach-hang.md)
+* [Đơn treo](ban-hang-thu-ngan/don-treo.md)
+* [Đơn từ app](ban-hang-thu-ngan/don-tu-app.md)
+* [Thanh toán](ban-hang-thu-ngan/thanh-toan.md)
+* [Đóng ca](ban-hang-thu-ngan/dong-ca.md)
