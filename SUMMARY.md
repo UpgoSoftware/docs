@@ -14,6 +14,8 @@
 * [Barcode](admin-nguoi-quan-tri/barcode.md)
 * [Vai trò/Quyền](admin-nguoi-quan-tri/vai-tro-quyen.md)
 * [Lịch sử hóa đơn](admin-nguoi-quan-tri/lich-su-hoa-don.md)
+* [Doanh thu bán hàng](admin-nguoi-quan-tri/doanh-thu-ban-hang.md)
+* [Doanh thu sản phẩm](admin-nguoi-quan-tri/doanh-thu-san-pham.md)
 
 ## Bán hàng ( Thu ngân )
 
