@@ -40,4 +40,4 @@ Sau khi lọc, bảng bên phải sẽ hiển thị danh sách chi tiết doanh 
 
 * Nhấn vào nút **Xuất ra file** (góc trên bên phải bảng) để xuất dữ liệu ra file, có thể là Excel hoặc CSV, giúp bạn phân tích thêm.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Doanh thu sản phẩm</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Doanh thu sản phẩm</p></figcaption></figure>

@@ -27,3 +27,7 @@
 * [Đơn từ app](ban-hang-thu-ngan/don-tu-app.md)
 * [Thanh toán](ban-hang-thu-ngan/thanh-toan.md)
 * [Đóng ca](ban-hang-thu-ngan/dong-ca.md)
+
+## Đơn từ App ( HeoVang )
+
+* [Đặt đơn](don-tu-app-heovang/dat-don.md)
