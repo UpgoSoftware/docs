@@ -4,7 +4,7 @@ description: Đặt đơn từ app giúp người dùng mua sắm dễ dàng và
 
 # Đặt đơn
 
-Các bước để đặt đơn trên App Heo Vang:
+Các bước để đặt đơn trên App HeoVang:
 
 B1: Tải app HeoVang trên CH Play ( dành cho người dùng Android ) hoặc AppStore ( dành cho người dùng iOS )
 
