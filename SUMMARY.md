@@ -31,3 +31,16 @@
 ## Đơn từ App ( HeoVang )
 
 * [Đặt đơn](don-tu-app-heovang/dat-don.md)
+
+## RPA
+
+* [Bot](rpa/bot.md)
+
+***
+
+* [Repository](repository.md)
+* [Machine](machine.md)
+* [Automation](automation.md)
+* [Task](task.md)
+* [Schedule](schedule.md)
+* [Credential](credential.md)
