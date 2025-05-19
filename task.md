@@ -6,7 +6,7 @@ description: Xem lịch sử và trạng thái bot đã chạy
 
 <figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption><p>Tas/collection</p></figcaption></figure>
 
-Mỗi một lần chạy Bot sẽ sinh ra 1 Task tương ứng
+Mỗi một lần chạy Bot sẽ sinh ra 1 Task tương ứng.
 
 <figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption><p>Task/model</p></figcaption></figure>
 
