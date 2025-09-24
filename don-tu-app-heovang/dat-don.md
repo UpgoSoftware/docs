@@ -26,6 +26,6 @@ B5: Sau khi đã chọn đồ xong, chọn "Giỏ hàng" để kiểm tra lại 
 
 <figure><img src="../.gitbook/assets/image (7).png" alt="" width="287"><figcaption></figcaption></figure>
 
-B6: Sau khi thanh toán xong màn hình sẽ hiển thị 1 mã QR, đưa mã QR cho nhân viên cửa hàng quét để xác nhận đơn hàng và lấy hàng
+B6: Sau khi thanh toán xong màn hình sẽ hiển thị 1 mã QR, đưa mã QR cho nhân viên cửa hàng quét để xác nhận đơn hàng và lấy hàng.
 
 <figure><img src="../.gitbook/assets/image (8).png" alt="" width="287"><figcaption></figcaption></figure>
