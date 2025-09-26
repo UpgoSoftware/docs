@@ -35,3 +35,4 @@
 ## CRM
 
 * [Hội viên](crm/hoi-vien.md)
+* [Nhóm hội viên](crm/nhom-hoi-vien.md)
