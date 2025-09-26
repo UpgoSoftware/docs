@@ -1,8 +1,7 @@
 ---
 description: >-
   Chức năng Hội viên trong hệ thống CRM giúp doanh nghiệp quản lý toàn bộ danh
-  sách khách hàng đã đăng ký hoặc phát sinh giao dịch. Tại đây, bạn có thể theo
-  dõi thông tin chi tiết từng khách hàng, lịch
+  sách khách hàng đã đăng ký hoặc phát sinh giao dịch.
 ---
 
 # Hội viên

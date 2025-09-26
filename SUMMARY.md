@@ -36,3 +36,5 @@
 
 * [Hội viên](crm/hoi-vien.md)
 * [Nhóm hội viên](crm/nhom-hoi-vien.md)
+* [Hạng hội viên](crm/hang-hoi-vien.md)
+* [Quy tắc tích điểm](crm/quy-tac-tich-diem.md)

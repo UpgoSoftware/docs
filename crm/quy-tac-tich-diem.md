@@ -1,0 +1,2 @@
+# Quy tắc tích điểm
+

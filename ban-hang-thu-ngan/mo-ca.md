@@ -8,4 +8,4 @@ description: >-
 
 Khi nhân viên bắt đầu một ca làm mới, cần nhấn nút **Mở ca** trong giao diện bán hàng, sau đó nhập số tiền có sẵn trước khi bắt đầu ca làm việc và nhấn **Bắt đầu**
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Mở ca</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Mở ca</p></figcaption></figure>
