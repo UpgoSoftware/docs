@@ -38,3 +38,7 @@
 * [Nhóm hội viên](crm/nhom-hoi-vien.md)
 * [Hạng hội viên](crm/hang-hoi-vien.md)
 * [Quy tắc tích điểm](crm/quy-tac-tich-diem.md)
+* [Chương trình khuyến mãi](crm/chuong-trinh-khuyen-mai.md)
+* [Quản lý Voucher](crm/quan-ly-voucher.md)
+* [Chiến dịch chăm sóc](crm/chien-dich-cham-soc.md)
+* [Quản lý đơn hàng](crm/quan-ly-don-hang.md)

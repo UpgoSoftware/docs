@@ -8,7 +8,7 @@ description: >-
 
 #### Giao diện chính
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 * **+ Tạo mới**: Nút thêm một hạng hội viên mới.
 * **Bảng danh sách hạng**: Hiển thị các hạng hội viên đã được cấu hình trong hệ thống.
@@ -34,7 +34,7 @@ description: >-
 
 ### Tạo mới / Chỉnh sửa hạng hội viên
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Màn hình này cho phép tạo mới hoặc chỉnh sửa thông tin của một **hạng hội viên** trong hệ thống.
 
