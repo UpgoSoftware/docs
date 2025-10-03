@@ -14,7 +14,7 @@ B2: Mở app, đăng nhập bằng email hoặc số điện thoại ( nếu đ�
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-B3: Sau khi đã đăng nhập, chọn phần "Thẻ thành viên" -> chọn thẻ của thương hiệu mà bạn muốn đặt hàng
+B3: Sau khi đã đăng nhập, chọn phần "Thẻ thành viên" -> chọn thẻ của thương hiệu mà bạn muốn đặt hàng.
 
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
