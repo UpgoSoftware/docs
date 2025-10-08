@@ -18,7 +18,7 @@ B3: Sau khi đã đăng nhập, chọn phần "Thẻ thành viên" -> chọn th�
 
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-B4: Chọn "Vé Canteen" -> chọn cửa hàng muốn đặt đồ -> chọn đồ muốn đặt
+B4: Chọn "Vé Canteen" -> chọn cửa hàng muốn đặt đồ -> chọn đồ muốn đặt.
 
 <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
