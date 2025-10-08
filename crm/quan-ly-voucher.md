@@ -8,7 +8,7 @@ description: >-
 
 Màn hình này cho phép theo dõi và quản lý toàn bộ voucher/coupon được phát hành trong hệ thống.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Các chức năng chính
 
@@ -46,7 +46,7 @@ Màn hình này cho phép theo dõi và quản lý toàn bộ voucher/coupon đ�
 
 Màn hình này cho phép tạo và phát hành voucher đến khách hàng theo chương trình khuyến mãi.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Các trường chính:
 

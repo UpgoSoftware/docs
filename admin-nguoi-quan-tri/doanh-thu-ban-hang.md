@@ -27,4 +27,4 @@ Hướng dẫn sử dụng phần doanh thu bán hàng:
 4. **Xuất báo cáo:**
    * Nhấn vào nút **Xuất ra file** để tải báo cáo doanh thu dưới dạng file (Excel hoặc CSV) phục vụ lưu trữ hoặc phân tích thêm.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Doanh thu bán hàng</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Doanh thu bán hàng</p></figcaption></figure>

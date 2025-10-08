@@ -33,7 +33,7 @@ Giao diện chính
 
 Màn hình này cho phép tạo mới hoặc chỉnh sửa thông tin của một **quy tắc tích điểm** trong hệ thống.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 #### Các trường thông tin
 

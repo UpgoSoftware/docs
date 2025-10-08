@@ -42,3 +42,5 @@
 * [Quản lý Voucher](crm/quan-ly-voucher.md)
 * [Chiến dịch chăm sóc](crm/chien-dich-cham-soc.md)
 * [Quản lý đơn hàng](crm/quan-ly-don-hang.md)
+* [Danh mục sản phẩm](crm/danh-muc-san-pham.md)
+* [Bảng giá](crm/bang-gia.md)

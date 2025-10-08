@@ -34,7 +34,7 @@ description: >-
 
 ### Tạo mới / Chỉnh sửa hạng hội viên
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Màn hình này cho phép tạo mới hoặc chỉnh sửa thông tin của một **hạng hội viên** trong hệ thống.
 
